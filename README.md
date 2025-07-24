@@ -13,5 +13,4 @@ Bu proje, basit bir "To Do List" (Yapılacaklar Listesi) uygulamasıdır. Kullan
 ## Kullanılan Teknolojiler
 
 - HTML
-- CSS
 - JavaScript
